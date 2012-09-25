@@ -1,0 +1,3 @@
+[submodule "awe-core"]
+	path = awe-core
+	url = git://github.com/sambaker/awe-core.git
